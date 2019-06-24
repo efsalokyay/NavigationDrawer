@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Birinci Bölüm" >
+        <menu >
+            <item
+                android:id="@+id/action_bir"
+                android:title="Bir" />
+            <item
+                android:id="@+id/action_iki"
+                android:icon="@drawable/ic_cake"
+                android:title="İki" />
+        </menu>
+    </item>
+    <item android:title="İkinci Bölüm" >
+        <menu >
+            <item
+                android:id="@+id/action_uc"
+                android:title="Üç" />
+        </menu>
+    </item>
+</menu>
